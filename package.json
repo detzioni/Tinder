@@ -16,6 +16,8 @@
     "babel-loader": "^6.2.0",
     "babel-preset-es2015": "^6.1.18",
     "babel-preset-react": "^6.1.18",
+    "eslint": "^5.0.1",
+    "eslint-plugin-react": "^7.10.0",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   },
